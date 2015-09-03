@@ -1,20 +1,17 @@
-#Craftathon-2 (MAKERS INTERGALACTIC)
+#Craftathon-2 (MAKERS IN SPACE)
 
 ###Schedule
 
 **10.00am to 1.00pm** - Teams assigned, brief released, sprint 1
-
 **1.00pm to 2.00pm** - Lunch break
-
 **2.00pm to 5.00pm** - Sprint 2
-
 **5.00pm to 6.00pm** - Presentations, feedback
 
 ###Brief
 
-- Makers Academy is going to space!
+Makers Academy is going to space!
 
-Evgeny and Ruben have gotten ballsier and have decided to rent a spaceship to take 8 passengers on a 12-week round trip to the moon.
+- Evgeny and Ruben have gotten ballsier and have decided to rent a spaceship to take 8 passengers on a 12-week round trip to the moon.
 
 Your Mission: Launch a website allowing people to book tickets.
 
