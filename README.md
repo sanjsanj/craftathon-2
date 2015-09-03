@@ -45,7 +45,7 @@ When I log in to my dashboard
 I want to see who has reserved seats on Makers Galactic I
 So that I can know if my MVP worked
 
-When I have a full spaceship of 8 passengers
+When I have a full spaceship
 I want the site to show the flight as full
 So that it doesn't get overbooked
 
