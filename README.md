@@ -3,8 +3,11 @@
 ###Schedule
 
 **10.00am to 1.00pm** - Teams assigned, brief released, sprint 1
+
 **1.00pm to 2.00pm** - Lunch break
+
 **2.00pm to 5.00pm** - Sprint 2
+
 **5.00pm to 6.00pm** - Presentations, feedback
 
 ###Brief
