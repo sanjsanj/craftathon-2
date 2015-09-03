@@ -25,9 +25,9 @@ When I am planning my next holiday
 I want to become really excited about flying around the moon
 So that I can be part of a select few
 
-When I see the price is £8,000
+When I see the price
 I want to feel like that's a worthwhile investment
-So that I know the price is justified
+So that I know the cost is justified
 
 When I decide to book my ticket(s)
 I want to be able to reserve my seat(s)
