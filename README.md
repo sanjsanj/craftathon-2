@@ -34,7 +34,7 @@ I want to be able to reserve my seat(s)
 So that I can know that I am going far, far away
 ```
 
-###Job stories for the admin
+###Job stories for the owner
 
 ```
 When I figure out how much to charge
