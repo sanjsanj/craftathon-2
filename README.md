@@ -21,17 +21,17 @@ Your Mission: Launch a website allowing people to book tickets.
 ###Job stories for the user
 
 ```
-When I am planning my next holiday
-I want to become really excited about flying around the moon
-So that I can be part of a select few
+When I visit the website
+I want to see a good looking website
+So that I get excited about booking my seat(s)
 
 When I see the price
-I want to feel like that's a worthwhile investment
+I want to feel like it's a worthwhile investment
 So that I know the cost is justified
 
-When I decide to book my ticket(s)
-I want to be able to reserve my seat(s)
-So that I can know that I am going far, far away
+When I'm booking my next holiday
+I want to reserve a window seat
+So that I can enjoy a beautiful view of the galaxy
 ```
 
 ###Job stories for the owner
