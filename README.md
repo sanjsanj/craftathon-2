@@ -25,10 +25,6 @@ When I visit the website
 I want to experience a well made website
 So that I can place my trust in the business
 
-When I see the price
-I want to feel like it's a worthwhile investment
-So that I know the cost is justified
-
 When I'm booking my next holiday
 I want to reserve a window seat
 So that I can enjoy a beautiful view of the galaxy
