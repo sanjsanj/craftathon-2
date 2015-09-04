@@ -22,8 +22,8 @@ Your Mission: Launch a website allowing people to book tickets.
 
 ```
 When I visit the website
-I want to see a good looking website
-So that I get excited about booking my seat(s)
+I want to experience a well made website
+So that I can place my trust in the business
 
 When I see the price
 I want to feel like it's a worthwhile investment
